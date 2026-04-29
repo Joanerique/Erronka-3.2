@@ -61,6 +61,7 @@ Instalatzeko eta
 htop 
 
 ![](imagenes/Quinta-Sistemas.png)
+
 horrela ikusten da.
 
 Eskuragarri dagoen espazioa eta diskoen egoera ikusteko:
