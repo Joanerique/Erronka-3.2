@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sarea
+---
+
 ## Sarearen eredua
 ![Alt text: A description of the image](1.png)
 
