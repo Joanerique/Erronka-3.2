@@ -4,7 +4,7 @@ title: Portada
 ---
 # ClimaTrack
 
-Hello! This is my new website created with. 
+![](logo minimalista par.png)
 
 ### My Goals:
 * Learn how to use Markdown.
