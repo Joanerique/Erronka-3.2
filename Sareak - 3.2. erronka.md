@@ -45,6 +45,7 @@ GW 192.168.70.254
 ### VLAN Sistemak DHCPrekin
 
 ![Alt text: A description of the image](9.png) 
+
 IP 192.168.10.0  
 GW 192.168.10.254  
 VLAN ID 20
@@ -52,6 +53,7 @@ VLAN ID 20
 ### Samba sarea 
 
 ![Alt text: A description of the image](10.png)
+
 GW 192.168.50.254  
 Sare IP 192.168.50.0
 
@@ -72,6 +74,7 @@ VLAN ID 40
 ### VLAN Langileak DHCP IPV6 
 
 ![Alt text: A description of the image](13.png)
+
 VLAN ID 10  
 
 
