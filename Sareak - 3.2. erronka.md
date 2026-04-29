@@ -1,10 +1,12 @@
-## Sarearen eredua![][image1]
+## Sarearen eredua
+![Alt text: A description of the image](1.png)
 
-## Sarearen eskema![][image2]
+## Sarearen eskema
+![Alt text: A description of the image](2.png)
 
 ## Sareak
 
-![][image3]
+![Alt text: A description of the image](3.png)
 
 ### VLAN SISTEMAK dhcp 
 
@@ -12,20 +14,20 @@ Sare ip 192.168.10.0
 
 ### Samba sarea 
 
-![][image4]  
+![Alt text: A description of the image](4.png)  
 Sare ip 192.168.50.0
 
-![][image5]
+![Alt text: A description of the image](5.png)
 
 ### OT VLAN 
 
 Sare ip 192.168.40.0
 
-![][image6]
+![Alt text: A description of the image](6.png)
 
 ### IPV6 Langileak DHCP-kin
 
-![][image7]
+![Alt text: A description of the image](7.png)
 
 ### VLAN Sistemak OT 
 
@@ -33,7 +35,7 @@ ip sarea 192.168.30.0
 
 ## Packet Tracer
 
-![][image8]
+![Alt text: A description of the image](8.png)
 
 ### Gelako sarea 
 
@@ -42,25 +44,25 @@ GW 192.168.70.254
 
 ### VLAN Sistemak DHCPrekin
 
-![][image9]  
+![Alt text: A description of the image](9.png) 
 IP 192.168.10.0  
 GW 192.168.10.254  
 VLAN ID 20
 
 ### Samba sarea 
 
-![][image10]  
+![Alt text: A description of the image](10.png)
 GW 192.168.50.254  
 Sare IP 192.168.50.0
 
-![][image11]
+![Alt text: A description of the image](11.png)
 
 ### VLAN OT 
 
 VLAN ID 50  
 GW 192.168.40.254
 
-![][image12]
+![Alt text: A description of the image](12.png)
 
 ### VLAN SISTEMAK OT 
 
@@ -69,8 +71,7 @@ VLAN ID 40
 
 ### VLAN Langileak DHCP IPV6 
 
-![][image13]  
-GW ![][image14]  
+![Alt text: A description of the image](13.png)
 VLAN ID 10  
 
 
