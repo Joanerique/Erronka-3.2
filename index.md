@@ -1,5 +1,5 @@
 ---
-layout: Portada
+layout: Page
 title: Portada
 ---
 # ClimaTrack
