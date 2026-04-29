@@ -1,3 +1,8 @@
+---
+layout: page
+title: Digitalizazioa
+---
+
 **2026-04-27**
 
 Lehenengo datu basea migratu genuen cloud-era eta ondoren kontsultak egiten laguntzeko IA-ren inplantazioa. 
