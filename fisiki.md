@@ -1,5 +1,6 @@
 L3 switch  
 ![Alt text: A description of the image](14.png)
+
 L3 Switcha huawei bat daukagu
 
 VLAN-ak sortu eta konfiguratu
