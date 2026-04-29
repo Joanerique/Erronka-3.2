@@ -1,3 +1,8 @@
+---
+layout: page
+title: Markatze
+---
+
 # JSON ⇒ XML
 
 Maridb-ko datu basea JSON formatuetatik XML-ra pasatu dugu, hau egiteko web orri bat erabili dugu.  
@@ -9,7 +14,9 @@ Gero egiaztatzeko XML artxiboa FireFox-ekin zabaldu dugu.
 # JavaScript
 
 Aurreko erronken berdina egin behar dugu, baina orain datuak xml-tik ateratzen ditugu. Hau egiteko kodigo berri bat sortu dugu.  
-$(document).ready(function () {
+
+
+    $(document).ready(function () {
 
     var humiditydata \= \[\];
 
@@ -222,7 +229,7 @@ $(document).ready(function () {
         });  
     }
 
-});
+    });
 
 Kodigo honetan AJAX bidez XML-ko datuak kargartzen du. XMLeko sarrera bakoitzeko, hau ateratzen da: bulegoko ID, timestamp, tenperatura (avg/min/max) eta hezetasuna (avg/min/max), eta array humiditydatan gordetzen dira.
 
@@ -250,7 +257,8 @@ Bukatzeko “grafikoaEguneratu ()” Chart.js erabiltzen du bi serieko lerro-gra
 ## OpenData
 
 OpenData egiteko beste kodigo bat sortu genuen.  
-document.addEventListener('DOMContentLoaded', function () {  
+
+    document.addEventListener('DOMContentLoaded', function () {  
     var edukiontzia \= document.getElementById('opendata-edukiontzia');
 
     fetch('data/opendata/')  
