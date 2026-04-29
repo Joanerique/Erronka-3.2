@@ -1,3 +1,7 @@
+---
+layout: page
+title: Sistemas
+---
 # Antirookit eta Cron
 
 Guk antirookit eta cron erabiliz analisiak eta eguneratzea erabili dugu.   
