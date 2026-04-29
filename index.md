@@ -1,8 +1,8 @@
 ---
-layout: home
-title: Home
+layout: Portada
+title: Portada
 ---
-# About Me
+# ClimaTrack
 
 Hello! This is my new website created with. 
 
