@@ -1,5 +1,5 @@
 L3 switch  
-![][image1]  
+![Alt text: A description of the image](14.png)
 L3 Switcha huawei bat daukagu
 
 VLAN-ak sortu eta konfiguratu
@@ -15,7 +15,8 @@ switchak pinga egiten zuen internetera eta nabigatzaileen zerbitzariei baina ez 
 
 Asus WL-500W
 
-Hau da erabilitako routerra switchari interneta eramateko ![][image2]
+Hau da erabilitako routerra switchari interneta eramateko 
+![Alt text: A description of the image](15.png)
 
 Azkenean MikroTik bat erabili dugu L3-ko sare bakoitzari.  
 MikroTik barruan 5 sare sortu ditugu sarea heman ahal izateko L3-ko portu talde bakoitzari.
