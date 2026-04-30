@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sarea
+title: Sareak
 ---
 
 ## Sarearen eredua
