@@ -1,3 +1,7 @@
+---
+layout: page
+title: Sareak Fisiko
+---
 L3 switch  
 ![Alt text: A description of the image](14.png)
 
