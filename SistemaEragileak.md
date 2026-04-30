@@ -23,7 +23,8 @@ Orain egunero goizaldeko 3etan programatu dugu.
 
 sudo crontab \-e  
 Or barruan azken filan, hau txertatu dugu  
-00 03 \* \* \* /usr/sbin/chkrootkit \> /var/log/chkrootkit\_scan.log 2\>&1
+0 3 * * 0 /usr/local/bin/seguridad_scan.sh >> /var/log/rkhunter_cron.log 2>&1 
+Ere bai aprobetxatzen dugu rkhunter or barruan ere gordetzeko. Horrela antimalware bat daukagu.
 
 ![Alt text: A description of the image](imagenes/Segunda-sistemas.png)
 
