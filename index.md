@@ -7,7 +7,7 @@ title: ClimaTrack
 ![](logominimalistapar.png)
 
 ### Egileak:
-* Luken Paldagai
+* Luken Pagaldai
 * Enol Naveran
 * Gaizka Arandia
 * Joan Erique
