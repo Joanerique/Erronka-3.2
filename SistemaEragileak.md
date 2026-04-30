@@ -24,9 +24,13 @@ Orain egunero goizaldeko 3etan programatu dugu.
 sudo crontab \-e  
 Or barruan azken filan, hau txertatu dugu  
 0 3 * * 0 /usr/local/bin/seguridad_scan.sh >> /var/log/rkhunter_cron.log 2>&1 
-Ere bai aprobetxatzen dugu rkhunter or barruan ere gordetzeko. Horrela antimalware bat daukagu.
+Ere bai aprobetxatzen dugu rkhunter or barruan ere gordetzeko. Horrela antimalware bat daukagu, eta beste kodigo hau txertatu dugu.
+30 04 * * * apt update && apt upgrade -y && apt autoremove -y > /var/log/actualizacion_auto.log 2>&1
+Horrela egunero debian eguneratzen da.
 
-![Alt text: A description of the image](imagenes/Segunda-sistemas.png)
+
+
+![Alt text: A description of the image](contrab.png)
 
 # Sistema monitorizatu eta mugak jarri
 
