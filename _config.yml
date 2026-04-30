@@ -4,6 +4,7 @@ theme: minima
 header_pages:
   - index.md
   - Sareak.md
+  - fisiko.md
   - Markatze.md
   - SistemaEragileak.md
   - Digitalizazioa.md
