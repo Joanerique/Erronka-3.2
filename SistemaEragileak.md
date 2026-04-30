@@ -103,6 +103,8 @@ Gero erabiltzaileari 10gb-ko muga ipini ditugu.
 
 sudo setquota \-u joan 9G 10G 0 0 / 
 
+![](cuotas.png)
+
 Orain joan erabiltzaileari PUZ eta RAM mugatu dugu
 
 sudo systemctl set-property smbd.service CPUQuota=50% MemoryLimit=1.8G 
